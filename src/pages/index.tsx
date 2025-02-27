@@ -62,7 +62,7 @@ export default function Home() {
               alt="ETHBelgium"
             />
             <Text color="white" mt="2">
-              ETHAntwerp
+              ETHBelgium
             </Text>
             <Image
               mt="6"
