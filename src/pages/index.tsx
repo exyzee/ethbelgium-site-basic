@@ -75,7 +75,7 @@ export default function Home() {
               color="white"
               mt="6"
               fontSize={{ base: "3xl", md: "3xl", xl: "4xl" }}
-              px={{ base: "10", md: 0 }}
+              px={{ base: "20", md: 0 }}
               align="center"
             >
               Belgium{`'`}s own ETH movement is here!
