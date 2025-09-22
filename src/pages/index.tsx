@@ -78,7 +78,7 @@ export default function Home() {
               px={{ base: "20", md: 0 }}
               align="center"
             >
-              Belgium{`'`}s own ETH movement is here!
+              Putting Belgium Onchain
             </Text>
 
             <Text
