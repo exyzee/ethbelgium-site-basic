@@ -56,7 +56,7 @@ export default function Home() {
             alignItems="center"
           >
             <Image
-              src="/assets/logo.svg"
+              src="/assets/ethbe.svg"
               height={{ base: "20", md: "100" }}
               width={{ base: "20", md: "100" }}
               alt="ETHBelgium"
